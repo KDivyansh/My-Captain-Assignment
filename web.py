@@ -29,7 +29,7 @@ np = float(np)
 title = title[0:19]
 
 #Checking condition as per MY Wish
-if np <= 4000:
+if np <= 5000:
     print("It is a buy, Hurry up and buy the\n",title,"as its price is:\n",price)
 else:
     print("Wait a little longer as",title,"'s price is:\n",price)
